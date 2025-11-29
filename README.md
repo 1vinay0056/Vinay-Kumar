@@ -5,8 +5,8 @@
 <h3 align="center">A passionate Computer Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
 
-- 🌱 I’m currently learning **MERN ,**
-- 💬 Ask me about **javascript**
+- 🌱 I’m currently learning **MERN , CYBER SECURITY**
+- 💬 Ask me about **javascript,full stack development**
 - 📫 How to reach me **vinaykumarmth@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
