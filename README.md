@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN , CYBER SECURITY**
 - 💬 Ask me about **javascript,full stack development**
-- 📫 How to reach me **vinaykumarmth@gmail.com**
+- 📫 How to reach me **[vinaykumarmth@gmail.com](mailto:vinaykumarmth@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
